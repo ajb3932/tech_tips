@@ -23,7 +23,7 @@ sudo usermod -aG docker $USER
 ```
 
 ## 02-002 Managing Users
-**Add New User**
+**Add New User** \
 (This will add a new user with SUDO permissions and will not need to enter a password when excalating use with caution!)
 ```bash
 sudo useradd -m -g sudo -s /bin/bash alex
