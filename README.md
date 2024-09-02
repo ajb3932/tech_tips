@@ -6,10 +6,10 @@ Handy Hints and Tips that I have found useful
 ### 01-001 Disable Hybernate (saves space on C: drive)
 ```powercfg.exe /hibernate off```
 
-### 01-002 Allow Extentions in locked down Chromium Browsers (Edge, Chrome, Brave)
+### 01-002 Allow Extensions in locked down Chromium Browsers (Edge, Chrome, Brave)
 - Registry Key: ```HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\ExtensionInstallForcelist```
-- String Value: ```1``` or the n+1 of the extentions currently installed
-- String Data: ```your_extention_key``` eg ```jbkfoedolllekgbhcbcoahefnbanhhlh```
+- String Value: ```1``` or the n+1 of the extensions currently installed
+- String Data: ```your_extension_key``` eg ```jbkfoedolllekgbhcbcoahefnbanhhlh```
 
 ## #02 Linux
 
