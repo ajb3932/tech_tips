@@ -9,7 +9,7 @@ Handy Hints and Tips that I have found useful
 ### 01-002 Allow Extentions in locked down Chromium Browsers (Edge, Chrome, Brave)
 - Registry Key: ```HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\ExtensionInstallForcelist```
 - String Value: ```1``` or the n+1 of the extentions currently installed
-- String Data: ```your_extention_key```
+- String Data: ```your_extention_key``` eg ```jbkfoedolllekgbhcbcoahefnbanhhlh```
 
 ## #02 Linux
 
